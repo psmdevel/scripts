@@ -1,3 +1,7 @@
+#--principle author: eric robinson
+#--contributors:
+#--purpose: calculates uptime stats and generates a report from an uptimerobot log
+
 #######################################################################
 #
 # init
