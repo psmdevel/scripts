@@ -17,7 +17,6 @@ clear
 
 #--import the mysql control mopdule
 $DRIVE = (Get-Location).Drive.Root
-#Import-Module $DRIVE\scripts\invoke-mysql.psm1 -Force 
 Import-Module $DRIVE\scripts\sources\_functions.psm1 -Force
 
 #--init vars
