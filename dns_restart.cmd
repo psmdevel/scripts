@@ -1,0 +1,12 @@
+@echo off
+psexec \\mgt01a net stop "dns server"
+psexec \\mgt01a net start "dns server"
+echo "---------"
+psexec \\mgt01b net stop "dns server"
+psexec \\mgt01b net start "dns server"
+echo "---------"
+psexec \\dc01 net stop "dns server"
+psexec \\dc01 net start "dns server"
+echo "---------"
+psexec \\dc02 net stop "dns server"
+psexec \\dc02 net start "dns server"

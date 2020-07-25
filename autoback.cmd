@@ -1,0 +1,1 @@
+@xcopy n:\sites m:\sites_backup\ts08\sites /d /e /c /h /r /o /y

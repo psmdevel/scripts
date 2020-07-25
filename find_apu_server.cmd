@@ -1,0 +1,1 @@
+@cscript \scripts\_find_apu_server.vbs %1

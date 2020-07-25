@@ -1,0 +1,2 @@
+msg * /server:ts10 "ATTENTION! You are logged into the system during our nightly maintenance period. You may continue to work, but be advised that the servers are sometimes rebooted at night. This could lead to the loss of work and/or brief periods of downtime."
+msg * /server:ts11 "ATTENTION! You are logged into the system during our nightly maintenance period. You may continue to work, but be advised that the servers are sometimes rebooted at night. This could lead to the loss of work and/or brief periods of downtime."

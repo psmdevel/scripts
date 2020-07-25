@@ -1,0 +1,1 @@
+@cscript \scripts\_find_lab_server.vbs %1
