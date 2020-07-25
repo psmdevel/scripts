@@ -1,2 +1,2 @@
-# PsRepo
-PowerShell Script Repository
+# Scripts
+Script Repository
